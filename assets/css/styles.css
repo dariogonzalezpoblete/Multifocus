@@ -1,1 +1,5 @@
-body {background-color: lightblue; /* fondo solicitado ligthblue */
+body { background-color: lightblue; font-family: sans-serif; }
+.card { border-radius: 15px; border: none; overflow: hidden; }
+.product-img { height: 200px; object-fit: cover; }
+.navbar-brand img { border-radius: 50%; background: white; padding: 2px; }
+.graduacion-box { background: #fff; padding: 20px; border-radius: 15px; margin-top: 10px; }
