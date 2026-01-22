@@ -2,8 +2,8 @@
  */
 const productos = [
     { id: 1, nombre: "Marco metálico redondo c/ capa Clarity", categoria: "metalico", img: "assets/img/metalico1.jpeg" },
-    { id: 2, nombre: "Marco metálico simple Angelo Falcony 1", categoria: "metalico", img: "assets/img/metalico3af.jpg" },
-    { id: 3, nombre: "Marco metálico simple Angelo Falcony 2", categoria: "metalico", img: "assets/img/metalico3af2.jpg" },
+    { id: 2, nombre: "Marco metálico simple Angelo Falcony 1", categoria: "metalico", img: "assets/img/metalico3af.JPG" },
+    { id: 3, nombre: "Marco metálico simple Angelo Falcony 2", categoria: "metalico", img: "assets/img/metalico3af2.JPG" },
     { id: 4, nombre: "Marco metálico c/ capa mujer Clarity", categoria: "metalico", img: "assets/img/metalico4.jpeg" },
     { id: 5, nombre: "Marco Acetato Clarity", categoria: "acetato", img: "assets/img/acetato1.jpeg" },
     { id: 6, nombre: "Marco Acetato doble capa Vigo", categoria: "acetato", img: "assets/img/acetato4.jpeg" },
